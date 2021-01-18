@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "1042987300540",
+        "firebase_url": "https://personaltoolbag-cacf8-default-rtdb.firebaseio.com",
+        "project_id": "personaltoolbag-cacf8",
+        "storage_bucket": "personaltoolbag-cacf8.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1042987300540:android:8bd1a3242d63cc755ec2b9",
+            "android_client_info": {
+                "package_name": "com.example.personaltoolbag"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "1042987300540-r9lb36lithslq08r1pe649qht7dd62i4.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyAn6FOzQQr6-za_BwdG7YWBe-iux-apeUY"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "1042987300540-r9lb36lithslq08r1pe649qht7dd62i4.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
